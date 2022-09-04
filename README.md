@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Kennedy Wakura 
 - 👀I am a junior data engineer with a passion for building data-driven solutions, development of web3 dApps, and developing end-to-end ETL data pipelines.
-- 🌱 I'm currently taking a training at 10 Academy Batch 5 on Machine Learning, Data Engineering and Web 3 
 - 💞️ I'm skilled in identifying, analyzing, and interpreting trends in datasets using statistical techniques, application of ETL procedures to data, and building visualizations to summarize results. 
 - I'm ready to collaborate on Machine Learning, Data Engineering and Web 3 projects
 - 📫 How to reach me: 
